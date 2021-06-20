@@ -4,3 +4,9 @@ welcome to kitchen
 
 pasta 
 pizza
+curry
+
+beans 
+cheese
+
+thank you
